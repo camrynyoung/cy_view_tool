@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CYViewTool::Renderer.copyright 'Camryn Young', 'All rights reserved'
+```
 
 ## Development
 
